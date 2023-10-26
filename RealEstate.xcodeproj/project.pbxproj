@@ -96,6 +96,8 @@
 		AC82AD4C2AEA83B1007C78F2 /* RealEstate */ = {
 			isa = PBXGroup;
 			children = (
+				AC82AD7A2AEA847F007C78F2 /* View */,
+				AC82AD792AEA8473007C78F2 /* Model */,
 				AC82AD4D2AEA83B1007C78F2 /* RealEstateApp.swift */,
 				AC82AD4F2AEA83B1007C78F2 /* ContentView.swift */,
 				AC82AD512AEA83B1007C78F2 /* Item.swift */,
@@ -128,6 +130,20 @@
 				AC82AD6C2AEA83B3007C78F2 /* RealEstateUITestsLaunchTests.swift */,
 			);
 			path = RealEstateUITests;
+			sourceTree = "<group>";
+		};
+		AC82AD792AEA8473007C78F2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AC82AD7A2AEA847F007C78F2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
